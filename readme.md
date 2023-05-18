@@ -1,4 +1,10 @@
-# Viridario de Vioanne Philotheo Achillino
+# Viridario de Gioanne Philotheo Achillino
+
+## Notes
+
+This is a work in progress English translation of the sword and buckler plays from Viridario de Gioanne Philotheo Achillino. I'm making use of my basic understanding of Italian, various online translation resources, and trying to infer some of the meaning behind some of the more linguistic flourishes in the original text.
+
+If I get something wrong, or if you have a better translation or interpretation for anything included, feel free to submit an issue or a PR.
 
 (...)
 
