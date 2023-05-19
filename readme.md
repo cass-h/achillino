@@ -95,3 +95,12 @@ The counter is when they turn the fist,
 when their arm goes to the inside of your arm,
 shove their arm to your outside
 To react quickly with the technique cheats the technique.
+
+
+### vi. stretta
+
+Pass to their right with your left foot with the buckler delivered to the sword hand and deliver a riverso to their right.
+
+#### Contra
+
+If defending yourself from this offense, when they step to you with their trailing foot and the cut of the buckler, do not fear the beat, but enter the inside of the arm to escape and they will not be able to give you the riverso
