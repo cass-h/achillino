@@ -97,10 +97,21 @@ shove their arm to your outside
 To react quickly with the technique cheats the technique.
 
 
-### vi. stretta
+### vi. Stretta
 
 Pass to their right with your left foot with the buckler delivered to the sword hand and deliver a riverso to their right.
 
 #### Contra
 
 If defending yourself from this offense, when they step to you with their trailing foot and the cut of the buckler, do not fear the beat, but enter the inside of the arm to escape and they will not be able to give you the riverso
+
+### vii. Stretta
+
+Another with the trailing foot passing to their right. From below, cut a ridoppio through their right hand and quickly step with the right to their left side, and cut their face with a falso on their left side.
+#### Contra
+
+To oppose this, as they come passing with the trailing foot with the ridoppio, immediately throw yourself to guardia di faccia.
+
+When the turn of the falso to your head is committed, and the right foot is a step beyond the trailing foot, immediately deliver a mezzo mandritto with force to the inside of the sword arm and with this seize the moment of victory from them
+
+Wait for the subsequent as I taught you. Counter properly and counter artfully.
