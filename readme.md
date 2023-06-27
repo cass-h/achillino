@@ -1,33 +1,144 @@
 # Viridario de Gioanne Philotheo Achillino
 
-## Notes
-
+<details>
+<summary>Notes</summary>
 This is a work in progress English translation of the sword and buckler plays from Viridario de Gioanne Philotheo Achillino. I'm making use of my basic understanding of Italian, various online translation resources, and trying to infer some of the meaning behind some of the more linguistic flourishes in the original text.
-
 If I get something wrong, or if you have a better translation or interpretation for anything included, feel free to submit an issue or a PR.
 
----
+</details>
 
-## Charron:
+<details>
+<summary>Framing</summary>
 
-I will not make light, for I've not been in this gravest of undertakings. I wish for each of you to be first decent in fencing, and to have good art. As when one has good art and guards, they may learn the methods of all others.
+```
+Doue e Franco e compagni il dir mimena,
+Che ritrouor Chironne in un boschetto .
+Chironne in vista i giudico gagliardi,
+Per canto imbraccio il scudo, e prese i dardi.
 
-Take the sword and buckler in hand with a graceful step of your right foot across to your right side.
-So that you aren't lost in fencing, step elusively and fiercely, and the play will be clean and clear.
+Domandol nome il tutto gli narrórnoi
+E come gli mandaua allui Mercurio
+```
 
+```
+Doue and Franco and comrades reveal to me,
+that Chironne was found in a grove.
+With Chironne's insight, I judge them to be nimbly disposed of body,
+and so covering well with the shield, and gripping the darts.
+I inquired his name, they told me the tale, and how
+Mercurio had commanded them to him.
+```
+
+This is how the story leads into the section on the sword lessons, establishing Chironne as the fencing instructor and the sons of Minos as the students. Some sections are written in second person, and some in third, all from Chironne's voice.
+
+</details>
+
+<details>
+<summary>
+Introduction to the mezza spada
+</summary>
+
+```
+Disse Chironne, io non faro soggiorno,
+Ma ne l'imprese gravi mai non furio.
+Voglio ciascun di voi far prima adorno
+Nello schermireze, e fieui bono alcurio ,
+
+Che quādo un homo ha grāde arte e possan
+Il se puo dir che ogni altro al Modo auáza .
+```
+
+```
+So says Chironne, I will not follow fashions,
+so never undertake these grave matters with fury.
+I wish for each of you to be first decent
+in fencing, and be fierce, strong, and proud
+As when one has good art and might,
+they may learn these additional forms.
+```
+
+Achiallino states he won't follow the format used by other teachers or teach hot headed pupils. Seems fair.
+
+He also states the plays should be used by a fencer with knowledge and confidence in Bolognese style fencing, which is clear from the lack of explanations of the basic cuts, guards, and terms throughout.
+
+```
+Piglia la spada in mano col brocchiero
+Leggiadro col pie dritto va in traverso
+Dal dritto lato tuo destro еe mainero
+Accioche tu non par schermitor perso,
+Passando per parer piu vago e fiero/
+E far il gioco piu polyco e terso.
+Tocca il brocchier col falso di la spada,
+E la spada in guarda alta sa che vada.
+```
+
+```
+Take the sword and buckler in hand
+Step with your right foot traversing
+to the right side in this manner
+Additionally, so you aren't lost in fencing,
+Pacing, in my opinion, is most elusive and proud,
+and the play will be smooth and polished.
 Touch the buckler to the false of the sword,
-and your sword in a high guard, knowing its worth.
+and your sword in high guard, as you go by.
+```
 
-To teach the game component by component, from the steps, the touches, the strikes, the false and the true. I could write well over a thousand journals. Suffice to say, I've found the great many secrets I write herein on this full art to be beneficial.
+A few important takeaways from this paragraph that Achillino feels are worth mentioning. We're instructed to stand in oblique right foot forward guards, and assured that learning tempo is both difficult and extremely important to polishing our fencing. We are also told to keep our sword in high guards when in presence, and guard the inside of our hand with the buckler.
 
-It is customary to make three assaults in this game. If one is touched, they return to their place.
+```
+Se dir volesse il gioco a parte a parter
+I passi, i colpi, i tocchi, i falsi, i dritti,
+lo vergarei ben piu di mille charte.
+Basta i secreti grandi io tharro ditci
+Quanti ne sono qualı in tutta larrer
+Che questi sono stati mei profirti.
+Vsanza e а far ire assalti in questo gioco,
+Sel ne tocco uno ogniun torni al suo loco .
+```
 
-The things of importance I desire to say: I dare to tell you every secret on coming to the half swords in fencing,
-standing in both simple and common ways.
-The false to the false can happen,
-or the dritto to the dritto or _gliamo dritto_.
+```
+To teach the game piece by piece,
+from the steps, the touches, the strikes, the false and the true.
+I could write well over a thousand papers.
+Sufficient great secrets I valiantly tell you.
+Many of which share similarities with the full art.
+That these are situations you are benefiting.
+Customarily perform the three assaulti to this range,
+with their touch each one works around to their side
+```
+
+Achillino is reiterating he is not teaching the full art, but is teaching some techniques that work in specific situations that build on existing knowledge of fencing.
+
+The "three assaulti" could mean either some plays similar to those seen in Manciolino or Morozzo, though none are in this tretise, or the three methods of attacking an enemy, being mandritti, roversi, or thrusts. In either case, Achillino says those work until the situation where we are in _mezza spada_ and have to work around our opponent's sword, where we must perform some more specialized techniques.
+
+```
+Le cose de importancia io voglio dire
+Ardisco dir chio dico ogni secreto .
+Giungendo a mezza spada nel schermire,
+Starli in dui modi solo e consuero ,
+Fil fallo con fil fallo puo aduenire ,
+O fil dritto con dritro, hor giamo driero .
+Ciascun eller puo agentere patiente.
+Chi fie piu accorto e Maestro fia vincente .
+```
+
+```
+The things of importance I desire to say:
+I dare to tell you every secret
+on coming to the half swords in fencing,
+Standing in two fashions simple and common.
+The false can come to the false,
+or the dritto to the dritto, now already behind.
 Either one can be the agent or the patient.
 Whoever is more shrewd and masterful will be the victor
+```
+
+Finishing up the intro, Achillino tells us the mechanics of playing in the _mezza spada_. We can be crossed at the false edge or at the true edge. Either we or our opponent can act first as the agent, or counter that action as the patient, as we should have equal _tempo_, and technique is the only thing that matters in this situation, rather than strength or speed.
+
+</details>
+
+## Strettas (redo WIP)
+
 
 ### i. Stretta a mezza spada
 
