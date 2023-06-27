@@ -29,7 +29,7 @@ I inquired his name, they told me the tale, and how
 Mercurio had commanded them to him.
 ```
 
-This is how the story leads into the section on the sword lessons, establishing Chironne as the fencing instructor and the sons of Minos as the students. Some sections are written in second person, and some in third, all from Chironne's voice.
+This is how the story leads into the section on the sword lessons, establishing Chironne as the fencing instructor and the sons of Minos as the students.
 
 </details>
 
@@ -57,7 +57,7 @@ As when one has good art and might,
 they may learn these additional forms.
 ```
 
-Achiallino states he won't follow the format used by other teachers or teach hot headed pupils. Seems fair.
+Achiallino states he won't follow the format used by other teachers, and instructs students to take this shit seriously and not to lose their temper.
 
 He also states the plays should be used by a fencer with knowledge and confidence in Bolognese style fencing, which is clear from the lack of explanations of the basic cuts, guards, and terms throughout.
 
@@ -137,21 +137,59 @@ Finishing up the intro, Achillino tells us the mechanics of playing in the _mezz
 
 </details>
 
+<details>
+	<summary>i. Stretta</summary>
+
+## Agente
+
+```
+Se sei falso con falso a mezza spada
+Voltagli un falso ne la destra tempia.
+El tuo pe destro indieto presto vada
+e tra un reverso spinto e sie botta empia.
+Sel contra di tal stretta far ti aggrada
+```
+
+```
+If you are falso on falso at the half sword,
+You turn a falso to the right temple.
+Quickly pass to your right hand,
+and thrust a pushed reverso and it will strike wicked
+if the counter of such a stretta pleases you.
+```
+
+I read this play as starting in _right coda lunga alta_, throwing a false edge cut to the opponent's face, and should they counter the cut strongly, using the energy from their parry to cut around to _guardia entrare_ on the right, and passing with the left foot to thrust.
+
+Achillino specifies to "thrust a pushed reverso", which I have taken to mean a true edge push-cut with the palm down. Think a very small reverso tondo while extending the hands forward with the whole body behind it.
+
+## Patiente
+
+```
+Voltando il falso che chi toglie stempia,
+Va col pie dritto al suo dritco e un reverso
+Tondo alla drita tempia i da a traverso.
+```
+
+```
+As the turn of the falso that which distempers
+Go with right foot to their right and a reverso
+tondo to the right temple given across
+```
+
+As the agent turns the false edge to provoke a defensive reaction, step to their outside and attack in preparation with a reverso tondo, which crosses back over the line to your right. To get the power required, weight your left foot with a hip turn while bringing the sword to reverse head guard, then strike the tondo while stepping into measure and follow with a triangle step back to _right coda lunga alta_.
+
+</details>
+
+<details>
+<summary>ii. Stretta</summary>
+
+## Agente
+
+## Patiente
+
+</details>
+
 ## Strettas (redo WIP)
-
-
-### i. Stretta a mezza spada
-
-If you are falso on falso at the half sword
-turn a falso to their right temple,
-step with your right foot indirectly to the inside and quickly push a riverso with a cruel blow (a suppression?)
-
-#### Contra
-The counter to this stretta for your pleasure:
-When they turn the falso to catch the temple,
-step with your right foot directly to their right and throw a riverso tondo to their right temple from across
-
-### ii. Stretta
 
 Also a technique happening firmly at the half sword.
 Deliver a kick to the groin with the right foot following a trailing foot pass
