@@ -101,15 +101,15 @@ To teach the game piece by piece,
 from the steps, the touches, the strikes, the false and the true.
 I could write well over a thousand papers.
 Sufficient great secrets I valiantly tell you.
-Many of which share similarities with the full art.
-That these are situations you are benefiting.
+Largely they are as the whole art.
+that these situations you stand to benefit.
 Customarily perform the three assaulti to this range,
 with their touch each one works around to their side
 ```
 
-Achillino is reiterating he is not teaching the full art, but is teaching some techniques that work in specific situations that build on existing knowledge of fencing.
+Achillino is reiterating he is not teaching from basics, but is teaching techniques at what is considered the cruicial distance in fencing.
 
-The "three assaulti" could mean either some plays similar to those seen in Manciolino or Morozzo, though none are in this tretise, or the three methods of attacking an enemy, being mandritti, roversi, or thrusts. In either case, Achillino says those work until the situation where we are in _mezza spada_ and have to work around our opponent's sword, where we must perform some more specialized techniques.
+The "three assaulti" refer to the long plays, or flourishes done from the _gioco largo_, though none are in this tretise, but we can assume they are common in the Bolognese tradition. Achillino instructs us to use these to reach the _mezza spada_, then work to find openings from the bind.
 
 ```
 Le cose de importancia io voglio dire
@@ -118,7 +118,7 @@ Giungendo a mezza spada nel schermire,
 Starli in dui modi solo e consuero ,
 Fil fallo con fil fallo puo aduenire ,
 O fil dritto con dritro, hor giamo driero .
-Ciascun eller puo agentere patiente.
+Ciascun eller puo agente e patiente.
 Chi fie piu accorto e Maestro fia vincente .
 ```
 
@@ -130,17 +130,19 @@ Standing in two fashions simple and common.
 The false can come to the false,
 or the dritto to the dritto, now already behind.
 Either one can be the agent or the patient.
-Whoever is more shrewd and masterful will be the victor
+Whoever is more aware and masterful will be the victor
 ```
 
-Finishing up the intro, Achillino tells us the mechanics of playing in the _mezza spada_. We can be crossed at the false edge or at the true edge. Either we or our opponent can act first as the agent, or counter that action as the patient, as we should have equal _tempo_, and technique is the only thing that matters in this situation, rather than strength or speed.
+Finishing up the intro, Achillino tells us the mechanics of playing in the _mezza spada_. We can be crossed at the false edge or at the true edge. Either we or our opponent can act first as the agent, or counter that action as the patient. The last line indicates the most important thing is our situational awareness, which lets us know _which_ technique to employ, and second to be masterful, or practiced, to actually _use_ the techniques.
 
 </details>
+
+## Falso con Falso
 
 <details>
 	<summary>i. Stretta</summary>
 
-## Agente
+### Agente
 
 ```
 Se sei falso con falso a mezza spada
@@ -162,7 +164,7 @@ I read this play as starting in _right coda lunga alta_, throwing a false edge c
 
 Achillino specifies to "thrust a pushed reverso", which I have taken to mean a true edge push-cut with the palm down. Think a very small reverso tondo while extending the hands forward with the whole body behind it.
 
-## Patiente
+### Patiente
 
 ```
 Voltando il falso che chi toglie stempia,
@@ -176,16 +178,50 @@ Go with right foot to their right and a reverso
 tondo to the right temple given across
 ```
 
-As the agent turns the false edge to provoke a defensive reaction, step to their outside and attack in preparation with a reverso tondo, which crosses back over the line to your right. To get the power required, weight your left foot with a hip turn while bringing the sword to reverse head guard, then strike the tondo while stepping into measure and follow with a triangle step back to _right coda lunga alta_.
+As the agent turns the false edge to provoke a defensive reaction, step to their outside with the right foot and attack in preparation with a reverso tondo, which crosses back over the line to your right. To get the power required, weight your left foot with a hip turn while bringing the sword to reverse head guard, then strike the tondo while stepping into measure with the right foot and follow with a triangle step back to _right coda lunga alta_.
 
 </details>
 
 <details>
 <summary>ii. Stretta</summary>
 
-## Agente
+### Agente
 
-## Patiente
+```
+Item essendo a mezza spada anchora
+Managli un calcio al pettenecchio en questa
+Passi il pie dritto dopo al stanco e allhora
+Dagli un fendente dritto su la testa.
+```
+
+```
+Similarly being at the half sword again.
+Direct a kick to the privates for this
+pass the right foot behind the _stanco_ and at that time
+strike them with a fendente dritto to the head
+```
+
+_stanco_ can be translated as tired, bored, exhausted, or standing. I read it as the non-dominant, or trailing foot.
+
+We deliver the kick with the right foot, and pass back while delivering a mandritto fendente, we don't move our left foot.
+
+### Patiente
+
+```
+Il contra e questo senza far dimora
+Dandoti il calcio con la penna presta
+Del brocchier dagli al schinco fortemente,
+Tu pari il calcio, e quel non da il fendente.
+```
+
+```
+The counter and this do without delay
+Giving the kick with the _penna_ they supplied
+of the buckler delivered to the shin bones strongly,
+You parry the kick, and they can't give the fendente.
+```
+
+We strike the leg with the buckler as our opponent tries to kick us in the groin. A noble defense, which allows us to keep our sword free to either parry the fendente or, if it isn't thrown, to riposte.
 
 </details>
 
