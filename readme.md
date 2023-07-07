@@ -93,7 +93,7 @@ Basta i secreti grandi io tharro ditci
 Quanti ne sono qualı in tutta larrer
 Che questi sono stati mei profirti.
 Vsanza e а far ire assalti in questo gioco,
-Sel ne tocco uno ogniun torni al suo loco .
+Sel ne tocco uno ogniun torni al suo loco.
 ```
 
 ```
@@ -103,13 +103,13 @@ I could write well over a thousand papers.
 Sufficient great secrets I valiantly tell you.
 Largely they are as the whole art.
 that these situations you stand to benefit.
-Customarily perform the three assaulti to this range,
-with their touch each one works around to their side
+Use and do the three assaulti to this range,
+with their touch each one accounts for their place
 ```
 
 Achillino is reiterating he is not teaching from basics, but is teaching techniques at what is considered the cruicial distance in fencing.
 
-The "three assaulti" refer to the long plays, or flourishes done from the _gioco largo_, though none are in this tretise, but we can assume they are common in the Bolognese tradition. Achillino instructs us to use these to reach the _mezza spada_, then work to find openings from the bind.
+The "three assaulti" refer to the long plays, or flourishes done from the _gioco largo_, though none are in this tretise, but we can assume they are common in the Bolognese tradition. Achillino instructs us to use these to reach the _mezza spada_, then switch to the appropriate technique based on the situation.
 
 ```
 Le cose de importancia io voglio dire
@@ -225,98 +225,115 @@ We strike the leg with the buckler as our opponent tries to kick us in the groin
 
 </details>
 
-## Strettas (redo WIP)
+<details>
 
-Also a technique happening firmly at the half sword.
-Deliver a kick to the groin with the right foot following a trailing foot pass
-to give a fendente dritto to the head.
+<summary>iii. Stretta</summary>
 
-#### Contra
+### Agente
 
-The counter is to intercept the target.
-To the kick you are owed,
-forcefully crash the buckler.
-You parry the kick, and they cannot deliver the fendente.
+```
+Se la stretta e col pie sinistro inanzi
+Passa col destro e darli un falso fingi
+Accio chel tuo nimico a ingegno avanzi.
+La spada drieto al capo fa gli attingi
+Fa chel pie manco tuo al suo dritto danzi
+alla la fina stanca il capo i spingi
+la man dritta gli ficca fra le cosse
+trabaccaratti drieto se Hercul fosse.
+```
 
-### iii. Stretta
+```
+You are crossed with left foot forward
+Pass with right and deliver a falso feignt
+for the purpose that your foe thinks they have the advantage.
+The sword (back, behind, along) to the head they draw
+make your left foot to their right dance
+to as far as their left foot, thrust the head
+the right arm and shove them
+tumbling back if Hercul goes.
+```
 
-This is the stretta with the left foot forward.
-Pass with the right and deliver a feight falso.
-Deliver to your enemy a dritto slice to the head, if you've outwitted them.
-let your left foot danse to your right,
-thrust the edge to the head by pushing a mandritto
-between their weapons.
-Omit the drieto if Hercul does
-the counter like so.
+We throw a similar falso feight to stretta i. while passing obliquely to our right, expecting our opponent to begin throwing the reverso as the counter. If they draw their hand back to throw the blow, we step back in as far as their left leg, shoving their arm to their head.
 
-#### Contra
+### Patiente
 
-When they pretend to throw the false, do not move at the sight. When they throw the sword to draw the edge on your head, you will make their life sad by taking a great passing step, and following after with the trailing foot. The right one makes you intuitive,
-that is, with sword in arms then strike a riverso, nor can you fail if you don't give them pain
+```
+Capo Tondo Contra
+Il contra e questo quando il singe darti
+Il falso non te movere a tal vista
+Quando il getta la spada per ficcarti
+Il capo alla lasina farai trista
+sua vira se gran passo puoi tirarti
+dopo al pie stanco il destro e fa tu invista
+cioe in spada in armi poi un reverso mena.
+ne puoi fallir che tu non gli dia pena.
+```
 
-### iv. Stretta
+```
+Head tondo counter
+The counter and this that it alone you strike
+the falso not moving to such sight.
+When they throw the sword to get you
+the head to therein, make them mourn
+their turn a great step can draw
+with the left foot to the right and cover yourself,
+rather, bring the sword to ready (then, future action) a reverso strike
+you cannot fail when you are not given pain.
+```
 
-Also to the face, that is, in the wrist extension
-throw a feint falso to the face,
-Let your sword fall with an extended molinetto, bringing the trailing foot well to your right. while throwing a riverso to their right temple in this action. For the counter, wait to defend yourself from this strike.
+We deflect the provocation by going to reverse head guard, without moving our feet, and when the hand comes in to push our arm, we pull our left foot and body back and strike a reverso tondo. This is likely an oblique pass back.
 
-#### Contra
+</details>
 
-When they perform the manacing falso,
-hold the sword with the buckler
-While they pass with the trailing foot
-to deliver the prideful riverso
-Pass with your trailing foot from the oblique and to their left
-and after the dritto portion of their molinetto,
-cut them with a falso in guarda inrare,
-so their riverso won't continue.
+<details>
+<summary>Quarta Stretta</summary>
 
-### v. Stretta
+```
+Item al volto/ cioe nel polso stanco
+Fingi di dare un falso en questo fare
+Lascia piover la spada in atto franco
+Di molinetto e fa il pie stanco andare
+Verso il suo destro e in cio non esser maco.
+Anzi un reverso spinto babbi en menare
+ne la sua tempia dritta. Al contra attendi,
+Accioche anchor da questo te deffendi.
+```
 
-In an overleveraged crossing, you will push your fist (buckler?) over the hand on the inside of their sword hand.
-You will lower their hand and throw a falso to their neck on the inside
+```
+In the same way the turn / That is in pushed left
+Feight of granting a falso this do
+Let the sword fall freely down
+of molinetto and do the left foot enter
+towards their right and in that don't be (bruised?).
+Also a pushed reverso (savage|with guile) to hit
+in their right temple. The counter expected,
+that another in this you defend.
+```
 
-#### Contra
+Here, we perform a falso feight to their right temple, as above, in this case bringing our left foot obliquely to their right. Using the force of their parry, we perform a _molinetto_ to cut around to their outside, pushing our reverso to their head while covering the line.
 
-The counter is when they turn the fist,
-when their arm goes to the inside of your arm,
-shove their arm to your outside
-To react quickly with the technique cheats the technique.
+```
+Quando il dimostrara il falso menare
+serra la spada insieme col brocchiero.
+Mentre chel passa col stanco per dare
+a te in la tempia quel reverso fiero.
+Il tuo pie stanco alquanto fa passare
+dopo dal dritto e in tanto su mainiero
+in acro guarda de intrar con un falso/
+el suo reverso a lui non sera valso.
+```
 
+```
+When they display the falso
+clamp the sword together with buckler.
+While that pass of left about to hit
+at you in the temple with the proud reverso.
+Your left leg (small quantity) passes
+with (from and/or to) right and in so many is (manageable / gentle)
+in (a?to) guarda de intrare with a falso
+their reverso will for then not will be fruitful
+```
 
-### vi. Stretta
+When the falso comes in, we parry with the false edge while bringing our sword to our buckler, and advancing slightly with our left foot, prompting the cut-around. We push with both hands into guardia de inrare while stepping with our right, closing the opening on our outside and thrusting to the chest.
 
-Pass to their right with your left foot with the buckler delivered to the sword hand and deliver a riverso to their right.
-
-#### Contra
-
-If defending yourself from this offense, when they step to you with their trailing foot and the cut of the buckler, do not fear the beat, but enter the inside of the arm to escape and they will not be able to give you the riverso
-
-### vii. Stretta
-
-Another with the trailing foot passing to their right. From below, cut a ridoppio through their right hand and quickly step with the right to their left side, and cut their face with a falso on the non dominant side.
-#### Contra
-
-To oppose this, as they come passing with the trailing foot with the ridoppio, immediately throw yourself to guardia di faccia.
-
-When the turn of the falso to your head is committed, and the right foot is a step beyond the trailing foot, immediately deliver a mezzo mandritto with force to the inside of the sword arm and with this seize the moment of victory from them
-
-Wait for the subsequent as I taught you. Counter properly and counter artfully.
-
-### viii. Stretta
-
-If the right foot has been committed elsewhere, thrust your buckler arm over the inside of theirs and pull it to your right and you will quickly know to pass to make your gambit strong.
-
-#### Contra
-
-Do this in place and prove yourself wise. When they force their left arm over your right and press with force,
-note how they are forcing you to turn your back.
-
-### ix Stretta
-
-In their gap,give them a falso fendente to the head while taking a great step with your right foot to their left. Quickly deliver a 
- riverso to their right temple during your exit.
-
- ### Contra
-
-Do not rest in place, do the opposite motion and counter firmly and quickly by giving them a ridoppio with the falso, combined with a full mandritto fendente.
+</details>
