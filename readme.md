@@ -197,13 +197,13 @@ Dagli un fendente dritto su la testa.
 ```
 Similarly being at the half sword again.
 Direct a kick to the privates for this
-pass the right foot behind the _stanco_ and at that time
+pass the right foot with the _stanco_ and at that time
 strike them with a fendente dritto to the head
 ```
 
 _stanco_ can be translated as tired, bored, exhausted, or standing. I read it as the non-dominant, or trailing foot.
 
-We deliver the kick with the right foot, and pass back while delivering a mandritto fendente, we don't move our left foot.
+We provoke with the falso while passing forward with our left foot, deliver the kick with the right foot, replace it behind to deliver a mandritto fendente.
 
 ### Patiente
 
@@ -288,7 +288,10 @@ We deflect the provocation by going to reverse head guard, without moving our fe
 <details>
 <summary>Quarta Stretta</summary>
 
+### Agente
+
 ```
+Quarta Stretta
 Item al volto/ cioe nel polso stanco
 Fingi di dare un falso en questo fare
 Lascia piover la spada in atto franco
@@ -300,6 +303,7 @@ Accioche anchor da questo te deffendi.
 ```
 
 ```
+Fourth crossing
 In the same way the turn / That is in pushed left
 Feight of granting a falso this do
 Let the sword fall freely down
@@ -310,9 +314,12 @@ in their right temple. The counter expected,
 that another in this you defend.
 ```
 
-Here, we perform a falso feight to their right temple, as above, in this case bringing our left foot obliquely to their right. Using the force of their parry, we perform a _molinetto_ to cut around to their outside, pushing our reverso to their head while covering the line.
+Here, we perform a falso feight to their right temple, as above, in this case bringing our left foot obliquely to their right. Using the force of their parry, we perform a _molinetto_ to cut around to their outside, pushing our reverso to their head while covering the line, expecting the reverso as they pass back.
+
+### Patiente
 
 ```
+Contra
 Quando il dimostrara il falso menare
 serra la spada insieme col brocchiero.
 Mentre chel passa col stanco per dare
@@ -324,16 +331,220 @@ el suo reverso a lui non sera valso.
 ```
 
 ```
+Counter
 When they display the falso
 clamp the sword together with buckler.
 While that pass of left about to hit
 at you in the temple with the proud reverso.
 Your left leg (small quantity) passes
-with (from and/or to) right and in so many is (manageable / gentle)
+with somewhat right and in so many is (manageable / gentle)
 in (a?to) guarda de intrare with a falso
 their reverso will for then not will be fruitful
 ```
 
-When the falso comes in, we parry with the false edge while bringing our sword to our buckler, and advancing slightly with our left foot, prompting the cut-around. We push with both hands into guardia de inrare while stepping with our right, closing the opening on our outside and thrusting to the chest.
+When the falso comes in, we parry in reverse head guard similarly. When they throw the reverso, expecting us to step back, we close the line with a standard shuffle forward into guardia de inrare, thrusting to the chest.
+
+</details>
+
+<details>
+
+<summary>v. Stretta</summary>
+
+### Agente
+
+```
+v. Stretta
+Hor oltra tu farai di pugno voltà
+Sopra la man di la sua spada dentro,
+La man gli affondarai tu questa volta
+E gli darai nel collo un falso dentro.
+```
+
+```
+Fifth crossing
+With forward movement you do a punch, turn
+over the inside of the hand of their sword,
+you plunge the hand with a turn
+and strike them in the neck a falso inside.
+```
+
+We use the same false edge provocation, this time striking the hilt of our sword into the hilt of their sword, and thrusting our pommel to the inside of their arm to hook the wrist, pulling it down to our right hip in an arm bar, and throw a false edge cut to the inside of their neck.
+
+### Patiente
+
+```
+Contra
+ll contra quando il far del pugno volta,
+Quādo il suo braccio dal tuo braccio e detro
+Spingi il suo braccio alla tua stanca parte
+Toccandol presto e larte inganna larte.
+```
+
+```
+Counter
+the counter when they do the punch turn,
+when their arm goes to the inside of your arm
+shoving their arm to your trailing side,
+Touching (obligatory) quickly and the art decieves the art
+```
+
+As they come in to hook our hand, we rise to reverse head guard, passing with our left foot and hooking their wrist with our pommel to perform the same intent.
+
+</details>
+
+<details>
+<summary>vi. Stretta</summary>
+
+### Agente
+
+```
+vi. Stretta
+Passa al suo dritto col tuo pie sinestro,
+Col brocchier dagli in la man da la spada
+E darli al collo un reverso sui destro.
+```
+
+```
+Sixth crossing
+Pass to their right with your left foot,
+with buckler give them in the hand of the sword
+and give them to the neck a reverso their right
+```
+
+Pass forwards with the left foot while pushing your buckler to their sword hand, possibly with a hilt strike to the sword (similar to v., but no intent to turn the hand and hook) and strike a reverso to the right side of their neck.
+
+### Patiente
+
+```
+Contra
+Se da questo deffenderte ti aggrada
+Quando il fa il passo stanco fa del Maestro
+Col taglio del brocchier non stare abbada
+Ma dagli entro dal braccio e sera perso
+Tal chel non ti potra dar del reverso.
+```
+
+```
+Counter
+If from this defence they advance on you
+when they make the (non-dominant) pass of some master
+with edge of the buckler not stay delayed
+but strike them with the buckler and they will be lost
+such that you prune the reverso.
+```
+
+Drive the buckler into their sword hand, which blocks the riverso, and riposting from below
+
+<details>
+
+<details>
+<summary>vii. Stretta</summary>
+
+### Agente
+
+```
+vii. Stretta.
+ltem col franco pie passa al suo dritto
+Di sotto in su fa un redoppio passando
+Per il suo bracci e presto col pie dritto
+Al suo sinestro va cossi passando
+Da un falso al volto non al lato dritto .
+```
+
+```
+Seventh crossing
+(In the same way | Just like) with trailing foot passing to their right
+For under in up do a redoppio going over
+by their arm and quickly with right foot
+to their left go to cut going over
+of a falso to turn to the non dominant side.
+
+```
+
+As above, we step in with the left foot and deflect the sword with buckler and/or sword hilt. We can perform a rising ridoppio reverso as opposed to the descending reverso to the neck, anticipating the buckler strike, and turn a falso cut the left side of their head using the energy with a triangle step.
+
+### Patiente
+
+```
+Contra
+Lopposito e, mentre chel vien passando
+Col pie stanco al redoppio se procaccia
+Subito buttate in guarda di faccia.
+
+Voltando il falso per darti alla testa
+Butta il pie dritto dopo al stanco un passo
+E nel passar fa che habbi la man presta
+Dagli un mezzo mandritto con fracasso
+Dentro al braccio de la spada e per questa
+Botta sera de la vittoria casso .
+
+Attendi ancho al seguēce io vuo insignarte
+Il contra e pro pro e contra con bella arte .
+```
+
+```
+Counter
+The interruption and, while they come
+with a trailing foot pass to redoppio, protect with
+suddenly thrust into guarda di faccia.
+
+Turning the falso to strike to testa
+Push the right foot to their trailing foot a step
+and pass when having the hand presented
+strike them a mezzo mandritto with a crash
+in the arm of the sword and with which
+thrust would be the triumph (to cross out, to void)
+
+Extend another following, I instruct you
+the counter and well may you fare and counter with good art.
+```
+
+We go to guardia di faccia while striking their sword with our buckler, and as it turns to a false edge mandritto fendente, we step to their rear foot and cut a falso to testa to catch the falso, before exchanging to our buckler and cutting their forearm with a slice and thrusting a stoccatta as we leave.
+
+</details>
+
+<details>
+
+<summary>viii. Stretta</summary>
+
+### Agente
+
+```
+viii. Stretta
+Inanzi colpie manco convienta essere
+Quandol te caccia il braccio dal brocchiero
+Dentro al tuo dritto e tu fa presto dessere
+Dico fel passa il tuo gubico fiero
+```
+
+```
+Eighth crossing
+Before the left hand strike has converged
+when they go to pursue with the arm of the buckler
+inward to your right and you do the quick (leave, depart, quit)
+to say if they pass to your elbow beat
+```
+
+The patient goes to parry our falso with their own. We quickly release a reverso from dente di cingaro with a mezza volta to our left foot.
+
+### Patiente
+
+```
+Contra.
+Fa in questo loco e saggio demostri essere,
+Calca il tuo braccio dritto non leggiero
+Sopra il suo stanco e nota quel chio vergo
+Forza sera chello ti volui il tergo.
+```
+
+```
+Counter
+Do this in place and percieve the demonstrations you have done,
+press your arm right not lightly
+on their left and note when they turn
+Strong bind you turn their back.
+```
+
+As they cut around from dente di cingaro, turn your falso into a reverso over their left leg, and should you bind, you will be able to push them with a superior structure.
 
 </details>
